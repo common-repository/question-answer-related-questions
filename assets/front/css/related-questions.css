@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.qa-related-questions{}
+.qa-related-questions h3 {
+	margin: 20px 0;
+	font-size: 16px;
+}
+.qa-related-questions .list-items{}
+.qa-related-questions .list-items .item {
+	display: block;
+	padding: 6px 0;
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
